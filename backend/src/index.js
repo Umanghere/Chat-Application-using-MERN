@@ -20,8 +20,12 @@ app.use(cors({
   credentials: true
 }))
 
-app.use("/api/auth", authRoutes)
-app.use("/api/messages", messageRoutes)
+console.log("Registering authRoutes");
+app.use("/api/auth", authRoutes);
+
+console.log("Registering messageRoutes");
+app.use("/api/messages", messageRoutes);
+
 
 if(process.env.NODE_ENV === "production"){
   app.use(express.static(path.join(__dirname, "../frontend/dist")))
