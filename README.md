@@ -42,7 +42,8 @@ A scalable real-time chat app with secure auth, cloud image handling, and persis
 - WebSocket (Socket.IO)  
 
 **Database:** 
-- MongoDB  
+- MongoDB
+  
 **Other:** 
 - JWT
 - Cloud storage (e.g., Cloudinary)
