@@ -11,13 +11,15 @@ A scalable real-time chat app with secure auth, cloud image handling, and persis
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](https://github.com/Umanghere/Chat-Application-using-MERN/blob/main/frontend/assets/Screenshot%202025-08-19%20105338.png?raw=true)
 
 ### 💬 Chat Interface
-![Chat UI](./screenshots/chat.png)
+![Chat UI](https://github.com/Umanghere/Chat-Application-using-MERN/blob/main/frontend/assets/Screenshot%202025-08-19%20110457.png?raw=true)
 
-### 👥 Group Chat
-![Group Chat](./screenshots/group.png)
+### 👥 Multiple Functionalities
+![Profile Section](https://github.com/Umanghere/Chat-Application-using-MERN/blob/main/frontend/assets/Screenshot%202025-08-19%20110517.png?raw=true)
+
+![Themes](https://github.com/Umanghere/Chat-Application-using-MERN/blob/main/frontend/assets/Screenshot%202025-08-19%20110527.png?raw=true)
 
 ## ✨ Features
 - 🔐 Authentication (secure login/sign-up)
@@ -40,7 +42,8 @@ A scalable real-time chat app with secure auth, cloud image handling, and persis
 - WebSocket (Socket.IO)  
 
 **Database:** 
-- MongoDB  
+- MongoDB
+  
 **Other:** 
 - JWT
 - Cloud storage (e.g., Cloudinary)
@@ -141,25 +144,3 @@ Set all env vars in hosting dashboards.
 
 PRs welcome! Please open an issue to discuss big changes.
 
-## MIT License
-```
-Copyright (c) 2025 Umang Bansal
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
